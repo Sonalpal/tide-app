@@ -5,7 +5,7 @@ on:
      branches:[develop]
      
 jobs: 
-   say_hello:
+    say_hello:
     runs-on: ubuntu-latest
     steps:
       - name: Print Greeting 
